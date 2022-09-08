@@ -1,0 +1,6 @@
+[submodule "logistic-dapp-contracts"]
+	path = logistic-dapp-contracts
+	url = https://github.com/kariy/logistic-dapp-contracts.git
+[submodule "logistic-dapp-frontend"]
+	path = logistic-dapp-frontend
+	url = https://github.com/kariy/logistic-dapp-frontend.git
